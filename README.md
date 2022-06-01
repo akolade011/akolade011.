@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassan
-- 👀 I’m interested in Web Developer Roles
-- 🌱 I’m currently learning React and Python 
+- 🌱 I am web developer at Node
+- I build websites using react
 - 📫 How to reach me akoladeakinwande@hotmail.com
 
 <!---
